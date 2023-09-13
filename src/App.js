@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <h1>Welcome to My Web App</h1>
         </header>
-        <main>{/* Your application content goes here */}</main>
+        <main>{}</main>
       </div>
     )
   }
